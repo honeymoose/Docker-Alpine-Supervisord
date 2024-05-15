@@ -38,11 +38,11 @@ You need to copy the supervisord.conf file replace in deploy folder.
 
 请使用下面的联系方式和我们联系：
 
-| 联系方式名称  | 联系方式                                          |
-|---------|-----------------------------------------------|
-| 电子邮件    | [service@ossez.com](mailto:service@ossez.com) |
-| 微信和QQ同号 | 103899765                                     |
-| 社区论坛    | https://www.isharkfly.com/                    |
+| 联系方式名称  | 联系方式                                  |
+|---------|---------------------------------------|
+| 电子邮件    | [yhu@ossez.com](mailto:yhu@ossez.com) |
+| 微信和QQ同号 | 103899765                             |
+| 社区论坛    | https://www.isharkfly.com/            |
 
 
 [supervisor]:        http://supervisord.org/
